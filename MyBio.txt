@@ -1,3 +1,9 @@
-MY BIO:
-hey! my name is Khushi Wadhawan
-and i'm a student at Capilano University. this my Second year at Capu and aprt from studying here i work in Rogers as a Brand Representative . i'm loving all the exposure i'm getting here and in Canada as i'm still pretty new here. i like to listen to music alot and also travel and try different cuisines .i hope to learn and understand the basics well as i have a bit of experience in computers . 
+You have created a GitHub repository and want to share it with your friend Bob
+by sending him the repository link. When Bob clicks the link in his web browser,
+some communication happens over the internet. Explain step by step what
+happens using the concepts of client and server. In your explanation, make sure
+to mention:
+• Which device acts as the client :mine
+• Which device acts as the server :GitHub’s computer
+• How Bob’s browser requests the repository content : My browser sends a request over the internet asking the GitHub server to give it the webpage and the repository content (this is an HTTP/HTTPS request).
+• How the server responds and sends the content back to Bob  answer these like me :The server responds by sending the content back — the HTML, files, and data and my browser displays the GitHub repository page on the screen
